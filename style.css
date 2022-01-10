@@ -7,3 +7,9 @@ body{
     alt: "Right click to save NFT!";
     border: 50px solid tomato;
 }
+
+.nfttext{
+    text-align: center;
+    background-color: tomato;
+    font-family: comic sans ms;
+}
