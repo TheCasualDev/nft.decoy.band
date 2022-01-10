@@ -6,6 +6,7 @@ body{
 .nft{
     alt: "Right click to save NFT!";
     border: 50px solid tomato;
+    border-radius: 10px;
 }
 
 .nfttext{
