@@ -1,0 +1,9 @@
+
+body{
+    background-color: black;
+}
+
+.nft{
+    alt: "Right click to save NFT!";
+    border: 50px solid tomato;
+}
