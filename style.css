@@ -1,16 +1,16 @@
 
 body{
-    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+    background: linear-gradient(0deg, red, yellow, rgb(204, 204, 255));
 }
 
 .nft{
     alt: "Right click to save NFT!";
-    border: 25px solid tomato;
+    border: 25px solid #99e077;
     border-radius: 10px;
 }
 
 .nfttext{
     text-align: center;
-    background-color: tomato;
+    background-color: #99e077;
     font-family: comic sans ms;
 }
