@@ -1,6 +1,6 @@
 
 body{
-    background-color: black;
+    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
 }
 
 .nft{
